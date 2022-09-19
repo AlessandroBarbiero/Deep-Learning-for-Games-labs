@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./lab6/exercise_DL_pcg"
+    ]
+}
