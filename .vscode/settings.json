@@ -2,5 +2,6 @@
     "python.analysis.extraPaths": [
         "./lab6/exercise_DL_pcg"
     ],
-    "notebook.output.textLineLimit": 300
+    "notebook.output.textLineLimit": 300,
+    "python.pythonPath": "/home/ale/dlgs/tournamentVenv/bin/python3.9"
 }
